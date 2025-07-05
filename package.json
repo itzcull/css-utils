@@ -1,15 +1,15 @@
 {
-  "name": "pkg-placeholder",
+  "name": "@itzcull/css-utils",
   "type": "module",
   "version": "0.0.0",
   "packageManager": "pnpm@10.10.0",
-  "description": "_description_",
+  "description": "A collection of CSS utility functions and types",
   "author": "Will Cullen <will@itzcull.com>",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/itzcull/pkg-placeholder.git"
+    "url": "git+https://github.com/itzcull/css-utils.git"
   },
-  "bugs": "https://github.com/itzcull/pkg-placeholder/issues",
+  "bugs": "https://github.com/itzcull/css-utils/issues",
   "keywords": [],
   "sideEffects": false,
   "exports": {
