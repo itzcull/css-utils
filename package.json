@@ -2,7 +2,7 @@
   "name": "@itzcull/css-utils",
   "type": "module",
   "version": "0.0.0",
-  "packageManager": "pnpm@10.10.0",
+  "packageManager": "pnpm@10.12.4",
   "description": "A collection of CSS utility functions and types",
   "author": "Will Cullen <will@itzcull.com>",
   "repository": {
